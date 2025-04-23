@@ -1,7 +1,6 @@
-# Primeiro_Site
-Primeiro Site Criado em HTML/CSS
+#Primeiro Site Criado em HTML/CSS
 
-# Portfólio Pessoal re
+# Portfólio Pessoal 
 
 Este é meu portfólio pessoal desenvolvido com HTML e CSS. O objetivo é apresentar minhas informações de contato, 
 biografia e projetos de forma organizada e atraente foi desenvolvido no ínicio do meu curso de HTML em 2024.
