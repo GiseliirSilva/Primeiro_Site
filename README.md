@@ -30,8 +30,5 @@ Giseli Iraci da Silva
 
 ## Capturas de Tela
 
-_(Aqui você pode adicionar capturas de tela da página inicial, etc. Isso é muito recomendado! Para adicionar imagens, salve as imagens na pasta `Imagens/` do seu repositório e use a sintaxe `![Descrição da imagem](Imagens/nome_da_imagem.jpg)` )_
-
-Por exemplo:
-
-`![Página Inicial](Imagens/captura_home.jpg)`
+![Página Inicial do Portfólio](Imagens/Captura_Home.png)
+![Página de Biografia](Imagens/Captura_Biografia.png)
